@@ -7,10 +7,10 @@
 - `npm i` to install dependencies
 - `npm run dev` to start
 
-  ## 🚀 Domain 
+## 🚀 Domain 
 - Good Health & Well Being
 
-  ## 💡 Proposed Solution
+## 💡 Proposed Solution
 - The problem Red Drop App solves :It stores the data of Blood donors, hospitals and organisations in one place.
 
 ## 💻 Techstack Used
